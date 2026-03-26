@@ -1,0 +1,1 @@
+m_ObstacleSpeed = 0.0001
